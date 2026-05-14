@@ -1,1 +1,3 @@
-hello world
+자격증: NCA, AZ-900
+대외활동: 아올다
+사용기술: java
